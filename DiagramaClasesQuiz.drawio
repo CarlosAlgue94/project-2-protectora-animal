@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="6E1Ls2w6MUWBk2ZPdNAI">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hKibASDBp2QQVLlckgPw-30" edge="1" parent="1" source="y2sWT1IxT4JsCi9TLSj4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="y2sWT1IxT4JsCi9TLSj4-8">
+          <mxGeometry relative="1" x="-0.0611" as="geometry">
+            <mxPoint x="344" y="252" as="sourcePoint" />
+            <mxPoint x="220" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hKibASDBp2QQVLlckgPw-29" edge="1" parent="1" source="y2sWT1IxT4JsCi9TLSj4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;flowAnimation=0;dashed=1;endSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="y2sWT1IxT4JsCi9TLSj4-10">
+          <mxGeometry relative="1" x="0.1163" as="geometry">
+            <mxPoint x="414" y="-26" as="sourcePoint" />
+            <mxPoint x="414" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hKibASDBp2QQVLlckgPw-31" edge="1" parent="1" source="y2sWT1IxT4JsCi9TLSj4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=diamondThin;endFill=1;endSize=15;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="y2sWT1IxT4JsCi9TLSj4-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="529" as="sourcePoint" />
+            <mxPoint x="220" y="477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hKibASDBp2QQVLlckgPw-32" edge="1" parent="1" source="y2sWT1IxT4JsCi9TLSj4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=diamondThin;endFill=1;endSize=15;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="y2sWT1IxT4JsCi9TLSj4-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="711" as="sourcePoint" />
+            <mxPoint x="220" y="659.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hKibASDBp2QQVLlckgPw-33" edge="1" parent="1" source="y2sWT1IxT4JsCi9TLSj4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=diamondThin;endFill=0;endSize=15;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="y2sWT1IxT4JsCi9TLSj4-10">
+          <mxGeometry relative="1" x="-0.0063" as="geometry">
+            <mxPoint x="849" y="358" as="sourcePoint" />
+            <mxPoint x="600" y="150.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Answer&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- choiceLabel: char&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- optionText: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- isCorrect: boolean&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Answer(choiceLabel: char,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;optionText: String,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;isCorrect: boolean&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getChoiceLabel(): char&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ setChoiceLabel(choiceLabel: char): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ getOptionText(): String&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ setOptionText(optionText: String): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ getIsCorrect(): boolean&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ setIsCorrect(isCorrect: boolean): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="201" width="370" x="35" y="801" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Question&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- questionText: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- category: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- answers: Answer[]&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Question(questionText: String, category: String, answers: Answer[])&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getQuestionText(): String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ setQuestionText(questionText: String): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ getCategory(): String&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ setCategory(category: String): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ getAnswers(): Answer[]&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ setAnswers(answers: Answer[]): void&lt;/p&gt;" vertex="1">
+          <mxGeometry height="201" width="382" x="29" y="529" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;QuestionBank&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- questions: Question[]&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ QuestionBank(questions: Question[])&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getRandomByCategory(category: String): Question&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100.08" width="289" x="75.5" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;QuizEngine&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;questionBank: QuestionBank&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- gameRecords: ArrayList&amp;lt;GameRecord&amp;gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ QuizEngine(questionBank: QuestionBank)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ play(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ validateInput(input: String): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ calculateScore(): int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getFeedbackMessage(score: int): String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getGameRecords(): ArrayList&amp;lt;GameRecord&amp;gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="201" width="269" x="301" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Main&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ main(args: String[]): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ showStatistics(records: ArrayList&amp;lt;GameRecord&amp;gt;): void&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="314" x="278.5" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;GameRecord&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- username: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- dateTime: LocalDateTime&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- correctAnswers: int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- incorrectAnswers: int&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GameRecord(username: String, dateTime: LocalDateTime, correctAnswers: int, incorrectAnswers: int)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getUsername(): String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ setUsername(username: String): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getDateTime(): LocalDateTime&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;setDateTime(dateTime: LocalDateTime): void&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;+ getC&lt;/span&gt;orrectAnswers&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;(): int&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ setCorrectAnswers(correctAnswers: int): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getIncorrectAnswers(): int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ setIncorrectAnswers(incorrectAnswers: int): void&lt;/p&gt;" vertex="1">
+          <mxGeometry height="232" width="560" x="440" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-17" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" value="*" vertex="1">
+          <mxGeometry height="30" width="30" x="720" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="458.08" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="*" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="y2sWT1IxT4JsCi9TLSj4-22" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" value="1" vertex="1">
+          <mxGeometry height="30" width="30" x="590" y="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
